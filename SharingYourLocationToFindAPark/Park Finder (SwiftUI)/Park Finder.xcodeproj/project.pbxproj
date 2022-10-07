@@ -145,9 +145,10 @@
 			};
 			buildConfigurationList = 7A82E60B2637DC36009C6147 /* Build configuration list for PBXProject "Park Finder" */;
 			compatibilityVersion = "Xcode 9.3";
-			developmentRegion = en;
+			developmentRegion = ru;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				ru,
 				en,
 				Base,
 			);
